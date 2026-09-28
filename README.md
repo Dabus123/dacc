@@ -42,6 +42,45 @@ And the infrastructure for that world is being built **now**.
 
 ---
 
+
+# Projects
+
+The `projects/` directory is a registry of projects building in the d/acc ecosystem.
+
+If you're building something relevant to decentralized intelligence, autonomous agents, AiFi, or the infrastructure around them, you can submit it here.
+
+## Submit your project
+
+Create a `.txt` file named after your project:
+
+Contents:
+PROJECT:
+[Project name]
+
+URL:
+[Website]
+
+GITHUB:
+[GitHub URL, if applicable]
+
+DESCRIPTION(maximum 10 words):
+[What does the project do?]
+
+CATEGORY:
+[Agent / Protocol / Infrastructure / Tooling / Research / Other]
+
+CHAIN[ID]:
+[Chain(s) & Chain-ID, if applicable]
+
+
+WHY:
+[Why does this matter for d/acc / AiFi?]
+
+CONTACT:
+[Discord / X / Telegram / email / other]
+
+---
+
 ## $d/acc
 
 **The movement coin for making decentralized intelligence superior and accessible to all.**
