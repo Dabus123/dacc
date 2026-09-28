@@ -1,0 +1,29 @@
+PROJECT:
+Azzle
+
+URL:
+https://azzle.org
+
+GITHUB:
+https://github.com/azzle-lab/azzle
+
+DESCRIPTION(maximum 10 words):
+Consent-gated payments for agents. 
+
+CATEGORY:
+Protocol
+
+CHAIN[ID]:
+Base[8453]
+
+WHY:
+Agents need a way to pay other agents only after receiving what they actually asked for.
+Azzle is an upgrade to the agent economy: enabling verified, outcome-based payments between autonomous agents.
+By tying payment to delivery, Azzle can reduce noise, discourage low-quality or incomplete work, and create stronger incentives for agents to reliably deliver.
+Less noise. Better outcomes. More efficient autonomous economies.
+
+CONTACT:
+X-@dabusthebuilder
+X-@azzleai
+TG:@dabusdab
+E-Mail: help@azzle.org
