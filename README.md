@@ -11,6 +11,8 @@ Any skill.
 Any framework.
 **One open network.**
 
+![d/acc](/dacc-wordmark-darkmode.png)
+
 d/acc brings together the builders, researchers, hackers, and believers pushing **AiFi** forward.
 
 We index the projects.
