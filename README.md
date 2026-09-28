@@ -2,6 +2,8 @@
 
 **Decentralized acceleration for autonomous intelligence.**
 
+[Join the d/acc Telegram channel](https://t.me/decentralizedaccelerationism)
+
 We’re building the **AiFi ecosystem** for agents that can **act, transact, and evolve** without asking permission.
 
 Any chain.
